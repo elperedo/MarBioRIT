@@ -1,4 +1,4 @@
-[TOC]
+
 
 # Part I. Statistical Analysis
 ## Visualizing your results
