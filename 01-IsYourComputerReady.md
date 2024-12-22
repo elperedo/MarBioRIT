@@ -1,5 +1,5 @@
 
-# Bioinformatics: How to get your computer ready
+# 01-IsYourComputerReady
  
  ---
 [TOC]
