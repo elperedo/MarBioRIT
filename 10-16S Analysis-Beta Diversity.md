@@ -1,11 +1,12 @@
-## Part I. Statistical Analysis
+[TOC]
+# Part I. Statistical Analysis
 
 ## Beta Diversity Analyses
  
 You've probably already noticed that the number of reads is quite different across samples.  Analyses of beta diversity behave very oddly if there are large differences in the number of reads across the compared samples.  Thus many programs, including QIIME, require an equal number of reads across samples.  There are two different methods available in QIIME2 to do this: normalizing by "rarefying," or throwing away sequences from samples until all samples have the same number of reads, or by converting the counts in each sample to frequencies.  
 
 * **Rarefy**: subsample the same number of sequences from each sample
-* **Relative Frequency**: proportion of each feature out of the total feature counts for each sample
+
 
 
 ### Normalizing by Rarefaction
