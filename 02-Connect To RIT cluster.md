@@ -1,7 +1,10 @@
 
 ## Type in the terminal
+```
 ssh **YOURUSERNAME**@oedipus.bioinformatics.rit.edu
-**enter the password** 
+```
+
+When promted **enter the password** 
 
 
 Once in, if (base) appears before your name, 
